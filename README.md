@@ -1,6 +1,8 @@
 🌟 Instant Image Gallery 🌟
 
-just copy and paste a single file and it will instantly create an image gallery from images in the folder on your server where you've put the file.
+Just copy and paste a single file and it will instantly create an image gallery from images in the folder on your server where you've put the file.
+
+You just place index.php to instantly convert a folder into image gallery or rename the PHP file, place a link elswhere and call it when you need. It's simple, versatile and easy to configure.
 
 📋 FEATURES
 
